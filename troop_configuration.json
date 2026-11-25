@@ -1,0 +1,17 @@
+{
+    "$schema": "./schemas/troop_configuration_schema.json",
+    "troops": [
+        {
+            "id": "troop_scout_#",
+            "name": "Scout",
+            "configuration": {
+                "cost": 100,
+                "damage": 0,
+                "range": 23.25,
+                "upgradeSequence": [
+                    
+                ]
+            }
+        }
+    ]
+}
